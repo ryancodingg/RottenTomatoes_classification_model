@@ -1,4 +1,4 @@
-##Motivation
+**Motivation
 
 The motivation behind this project is to build a machine learning model that can predict the Rotten Tomatoes rating of movies based on critic reviews. By utilizing two large datasets, namely rotten_tomatoes_critic_reviews.csv and rotten_tomatoes_movies.csv obtained from Kaggle, I aim to develop a classification algorithm that can effectively predict the rating of movies.
 
