@@ -1,4 +1,4 @@
-![Rotten_Tomatoes_Rating](https://github.com/ryancodingg/Rotten-Tomatoes/assets/93328434/f657edaa-cd29-4ae8-81a6-9eca24dbf12c)
+
 
 # Motivation
 
